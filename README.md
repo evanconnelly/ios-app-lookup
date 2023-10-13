@@ -4,7 +4,7 @@ A simple command-line tool to look up iOS apps on the App Store by either their 
 # Usage
 
 ## Lookup by Bundle ID:
-`ios_lookup -b com.example.app`
+`ios-lookup -b com.example.app`
 
 ## Lookup by App ID:
-`ios_lookup -i 1234567890`
+`ios-lookup -i 1234567890`
